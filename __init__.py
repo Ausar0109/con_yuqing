@@ -1,1 +1,0 @@
-from .tmall_spider import Tmall_Spider
